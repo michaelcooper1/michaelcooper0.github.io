@@ -1,0 +1,19 @@
+ /*cheat-sheet.css*/
+
+ /*body is a selector to the tag body to change the stlying of body sections on my html file*/
+
+ 
+body{
+ 	background: magenta;}
+ 	 /*background is a property to change the background color of a element.
+ 	  Orange is the value of the property*/
+ 	  /*we can use 140 color names https://www.w3schools.com/colors/colors_names.asp*/
+ 	  /*heading is a class selector to add styling to serveral elements on my htmly file */
+ 	  .heading{/*color property is to change the text color*/ color:yellow;}
+
+ 	  /* id selector is to style one element on my html page*/
+ 	  #my_paragraph{text-align: right;
+ 	  	text-decoration: underline;
+ 	  	font-weight: bold;}
+
+

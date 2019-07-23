@@ -1,0 +1,25 @@
+
+
+body{
+	background:rgb(255,223,0);
+font-family: 'Open Sans Condensed', sans-serif;}
+h1 {color:rgb(139,0,139);}
+
+ol{font-weight: bold;color: rgb(139,0,139);}
+
+a{text-decoration: none;}
+
+#break {background-color:rgb(255,223,0);
+border-style: groove;
+border-radius: 10px;
+border-color:rgb(139,0,139);
+text-align: center;}
+#border1 {border-style: groove; 
+	border-color:rgb(139,0,139);
+border-radius: 50px}
+#name{text-align: center;}
+.babyme{border-style:solid;
+border-color: black;
+margin-top: 5S0px;
+margin-left: 50px;
+margin-right:50px;}
